@@ -21,7 +21,7 @@
     left: 0px;
     width: 100%;
     padding: 0px 0px;
-    background: rgba(192, 129, 74, 0.95);
+    background: rgba(206, 190, 165, 0.95);
     opacity: 0;
     visibility: hidden;
     transition: all 500ms ease;
@@ -2948,7 +2948,7 @@
 .header-style9 {
     position: relative;
     display: block;
-    background-color: rgba(192, 129, 74, 0.85);
+    background-color: rgba(206, 190, 165, 0.85);
     
 }
 
@@ -3028,7 +3028,7 @@
 .header-bottom-style9 {
     position: relative;
     display: block;
-    background-color: rgba(192, 129, 74, 0.85);
+    background-color: rgba(206, 190, 165, 0.85);
     border-top: 1px solid rgba(255, 255, 255, 0.15);
     padding: 20px 0;
 }
