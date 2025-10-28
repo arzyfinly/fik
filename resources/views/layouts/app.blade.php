@@ -348,8 +348,8 @@
                         </div>
 
                         <div class="txt-loading">
-                            <span data-text-preloader="Ekonomi & Bisnis" class="letters-loading">
-                                Ekonomi & Bisnis
+                            <span data-text-preloader="Ilmu Komunikasi" class="letters-loading">
+                                Ilmu Komunikasi
                             </span>
                         </div>
                     </div>
